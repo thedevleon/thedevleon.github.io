@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://thedevleon.github.io"
-title = "devleon blog"
+title = "devleon"
 description = "portfolio and blog of thedevleon"
 default_language = "en"
 generate_sitemap = true
@@ -35,7 +35,7 @@ menu = [
 ]
 toc = true
 use_cdn = true
-logo = "rust.svg"
+# logo = "rust.svg"
 favicon = "rust.png"
 fancy_code = true
 dynamic_note = true
