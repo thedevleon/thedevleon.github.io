@@ -1,6 +1,7 @@
 +++
-title = "Project 0"
-description = "Example description with a lot of words but without any meaning. Why use lorem ipsum when you can just write a lot of text that has no underlying meaning?"
+title = "A example project"
+description = "Example description of a very interesting project."
+date = "2025-03-03"
 weight = 1
 
 [extra]
