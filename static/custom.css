@@ -4,3 +4,37 @@
     height: 32px;
     vertical-align: middle;
 }
+
+/* Compact Footnotes Styling */
+/* Make the footnote section more compact */
+.footnotes {
+    font-size: 0.75rem;
+    line-height: 1.0;
+}
+
+/* Style the footnotes list */
+.footnotes-list {
+    padding-left: 1.5rem;
+    margin: 0.5rem 0;
+}
+
+/* Style individual footnote items */
+.footnotes-list li {
+    margin-bottom: 0.25rem;
+}
+
+/* Style the footnote content */
+.footnotes-list li p {
+    display: inline;
+    margin: 0;
+}
+
+/* Hide the back reference arrow in footnotes */
+.footnotes-list li a:last-child {
+    display: none;
+}
+
+/* Style the footnote reference in text (superscript numbers) */
+.footnote-reference {
+    font-size: 0.7rem;
+}
