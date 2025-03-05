@@ -41,7 +41,7 @@ menu = [
     { name = "/projects", url = "/projects", weight = 3 },
     { name = "/tags", url = "/tags", weight = 4 },
 ]
-toc = true
+# toc = true
 use_cdn = true
 # logo = "rust.svg"
 favicon = "rust.png"
